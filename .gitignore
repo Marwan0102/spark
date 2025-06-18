@@ -1,3 +1,4 @@
 openfood_clean.json
 openfood_clean.parquet
 openfood.csv
+__pycache__
